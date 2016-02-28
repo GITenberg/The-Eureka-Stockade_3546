@@ -1,0 +1,36 @@
+_repo: The-Eureka-Stockade_3546
+creator:
+  author:
+    agent_name: Carboni, Raffaello
+    alias: Raffaello, Carboni
+    birthdate: 1817
+    deathdate: 1875
+    gutenberg_agent_id: '1224'
+    url: http://www.gutenberg.org/2009/agents/1224
+    wikipedia: http://en.wikipedia.org/wiki/Raffaello_Carboni
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2002-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3546'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ballarat (Vic.) -- Biography'
+- !lcsh 'Eureka Stockade (Ballarat, Vic.) -- History'
+- !lcsh 'Italians -- Australia -- Ballarat (Vic.) -- Biography'
+- !lcsh 'Gold mines and mining -- Australia -- Ballarat (Vic.) -- History -- 19th
+  century'
+- !lcsh 'Gold miners -- Australia -- Ballarat (Vic.) -- Social conditions -- 19th
+  century'
+- !lcsh 'Revolutions -- Australia -- Ballarat (Vic.) -- History -- 19th century'
+- !lcc 'DU'
+- !lcsh 'Ballarat (Vic.) -- Social conditions -- 19th century'
+- !lcsh 'Ballarat (Vic.) -- History -- 19th century'
+- !lcsh 'Carboni, Raffaello, 1817-1875'
+- !lcsh 'Victoria -- Gold discoveries'
+title: The Eureka Stockade
+url: http://www.gutenberg.org/ebooks/3546
