@@ -1,5 +1,5 @@
 _repo: The-Eureka-Stockade_3546
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -38,5 +38,6 @@ subjects:
 - !lcsh 'Ballarat (Vic.) -- History -- 19th century'
 - !lcsh 'Carboni, Raffaello, 1817-1875'
 - !lcsh 'Victoria -- Gold discoveries'
+- GITenberg
 title: The Eureka Stockade
 url: http://www.gutenberg.org/ebooks/3546
